@@ -5,8 +5,8 @@
         <div class="about_content">
           <h2>About me</h2>
           <p>
-            Hello, I'm Denis – UX/UI designer from Minsk. I'm interested in
-            design and everything connected with it. <br />
+            Hi, I'm Denis – UX/UI designer from Minsk. I'm interested in design
+            and everything connected with it. <br />
             I'm studying at courses "Web and mobile design interfaces" in
             IT-Academy. <br />
             Ready to implement excellent projects with wonderful people.
